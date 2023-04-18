@@ -1,56 +1,58 @@
 2a60927148abd1d33b818b535e306557
-::res://::1681571025
+::res://::1681804884
 icon.svg::CompressedTexture2D::9061393411176824348::1681568899::1681569085::1::::<><>::
-level_1.tscn::PackedScene::4282541550921080040::1681569524::0::1::::<><>::
+InteractiveTileMap.gd::GDScript::-1::1681676501::0::1::::InteractiveTilemap<>TileMap<>::
+level_1.tscn::PackedScene::4282541550921080040::1681676501::0::1::::<><>::uid://cbyd581odwbh2<>uid://cc30s8sj3c8de<>uid://br33n3fuu11qs<>res://InteractiveTileMap.gd
 ::res://Art/::1670084966
 public-license.txt::TextFile::-1::1644236968::0::1::::<><>::
 ::res://Art/Battle Backgrounds/::1670085630
-::res://Art/Battle Backgrounds/Dungeon/::1681570812
+::res://Art/Battle Backgrounds/Dungeon/::1681571037
 Dungeon-door-skull.png::CompressedTexture2D::3521255174815557579::1645957850::1681571037::1::::<><>::
 Dungeon-door.png::CompressedTexture2D::7757102779454000794::1645957858::1681571037::1::::<><>::
-::res://Art/Battle Backgrounds/Hazy Hills/::1681570812
+::res://Art/Battle Backgrounds/Hazy Hills/::1681571037
 battle-background-sunny-hillsx1.png::CompressedTexture2D::8387820212938918603::1448554738::1681571037::1::::<><>::
 HUD.png::CompressedTexture2D::8704798008053405818::1448554844::1681571037::1::::<><>::
 ::res://Art/Battle Sprites/::1670084938
-::res://Art/Battle Sprites/Living/::1681570812
+::res://Art/Battle Sprites/Living/::1681571037
 Frog.png::CompressedTexture2D::3408565028631430201::1646418454::1681571037::1::::<><>::
 Mummy.png::CompressedTexture2D::3302206986598841773::1646394486::1681571037::1::::<><>::
 Ogre.png::CompressedTexture2D::7536720332947933656::1646323876::1681571037::1::::<><>::
 slime.png::CompressedTexture2D::7673341340284546418::1646411666::1681571037::1::::<><>::
 wizard.png::CompressedTexture2D::5063396077466025564::1646417754::1681571037::1::::<><>::
-::res://Art/Battle Sprites/Mechanic/::1681570812
+::res://Art/Battle Sprites/Mechanic/::1681571037
 Drone.png::CompressedTexture2D::4595047789430343892::1648497932::1681571037::1::::<><>::
 Metal-Slug.png::CompressedTexture2D::2016560952984073079::1648472138::1681571037::1::::<><>::
 observer.png::CompressedTexture2D::3607537256923645814::1648549098::1681571037::1::::<><>::
 Sentinel.png::CompressedTexture2D::4709467115466796728::1648159472::1681571037::1::::<><>::
 steel-eagle.png::CompressedTexture2D::4335078223499949200::1648580444::1681571037::1::::<><>::
 ::res://Art/Environments/::1670086216
-::res://Art/Environments/Cave/::1681570812
+::res://Art/Environments/Cave/::1681571037
 tileset.png::CompressedTexture2D::4511178643736125370::1655754732::1681571037::1::::<><>::
-::res://Art/Environments/Cave/preview/::1681570812
+::res://Art/Environments/Cave/preview/::1681571037
 preview.png::CompressedTexture2D::2337822464113584360::1655754886::1681571037::1::::<><>::
-::res://Art/Environments/TechLab/::1681570812
+::res://Art/Environments/TechLab/::1681571037
 Tileset.png::CompressedTexture2D::5895451681576254731::1655222722::1681571037::1::::<><>::
-::res://Art/Environments/TechLab/previews/::1681570813
+::res://Art/Environments/TechLab/previews/::1681571038
 preview-export-x9.png::CompressedTexture2D::7492915618459178530::1655222558::1681571038::1::::<><>::
 preview.png::CompressedTexture2D::3154090768229234406::1655222542::1681571037::1::::<><>::
-::res://Art/Environments/Techlab 2/::1681570812
+::res://Art/Environments/Techlab 2/::1681571037
 tileset.png::CompressedTexture2D::1919894076364902122::1656592188::1681571037::1::::<><>::
-::res://Art/Environments/Techlab 2/previews/::1681570812
+::res://Art/Environments/Techlab 2/previews/::1681571037
 preview-exporx3t.png::CompressedTexture2D::3696372543877717666::1656592142::1681571037::1::::<><>::
 preview.png::CompressedTexture2D::335980734931883162::1656592132::1681571037::1::::<><>::
 ::res://Art/Environments/Town/::1670084802
 ::res://Art/Environments/Town/PSD/::1452346150
-::res://Art/Environments/Town/spritesheets/::1681570812
+::res://Art/Environments/Town/spritesheets/::1681571037
 hero.png::CompressedTexture2D::2438285372565022373::1422398602::1681571037::1::::<><>::
 npc.png::CompressedTexture2D::7271514293328030720::1422398556::1681571037::1::::<><>::
-::res://Art/Environments/Town/tileset/::1681570812
+::res://Art/Environments/Town/tileset/::1681663578
 example.png::CompressedTexture2D::1398002172722894323::1422398684::1681571037::1::::<><>::
 grass-tile-2.png::CompressedTexture2D::7092733307639394449::1422441492::1681571037::1::::<><>::
 grass-tile-3.png::CompressedTexture2D::1346222509914149397::1422441570::1681571037::1::::<><>::
 grass-tile.png::CompressedTexture2D::8525906049342497551::1422368046::1681571037::1::::<><>::
+grass-tiles.png::CompressedTexture2D::3639158373085863786::1681663577::1681663578::1::::<><>::
 tileset.png::CompressedTexture2D::4972573462408877662::1422441400::1681571037::1::::<><>::
-::res://Art/Environments/Vegetation props/::1681570812
+::res://Art/Environments/Vegetation props/::1681571037
 bush-1.png::CompressedTexture2D::1202828966731204534::1670085442::1681571037::1::::<><>::
 bush-2.png::CompressedTexture2D::2424565548169717721::1670085466::1681571037::1::::<><>::
 bush-3.png::CompressedTexture2D::9099352619292620684::1670085484::1681571037::1::::<><>::
@@ -59,5 +61,7 @@ plant-2.png::CompressedTexture2D::5707809922937443543::1670085526::1681571037::1
 plant-3.png::CompressedTexture2D::2635011292599131100::1670085544::1681571037::1::::<><>::
 tree-1.png::CompressedTexture2D::6933043375341496140::1670085398::1681571037::1::::<><>::
 tree-2.png::CompressedTexture2D::5477323092949978276::1670085414::1681571037::1::::<><>::
-::res://Characters/::1681571009
-character_body_2d.tscn::PackedScene::8427310745443044084::1681571009::0::1::::<><>::uid://ba0eg6wbxfkyv
+::res://Characters/::1681676501
+Player.gd::GDScript::-1::1681675262::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::4892812775993556013::1681676501::0::1::::<><>::res://Characters/Player.gd<>uid://ba0eg6wbxfkyv
+::res://TileMap/::1681675273
